@@ -272,7 +272,7 @@ SELECT *FROM Staff_Masters
 
 WHERE (Staff_Name LIKE 'A%S' OR Staff_Name LIKE 'N_%'
 
-OR Staff_Name LIKE '_N%' OR Staff_Name LIKE '%N' OR Staff_Name LIKE '%S');
+OR Staff_Name LIKE '_N%' OR Staff_Name LIKE '%N' OR Staff_Name LIKE '%S')
 
 --List the names of the staff having ‘_’ character in their name.
 
